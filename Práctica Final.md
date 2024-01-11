@@ -41,8 +41,8 @@ Dado un número de ticket, debemos determinar si está o no está pagado, si est
 
    Pero ten en cuenta dos cosas:
 
-    ■ (1) Piensa en esta clase como si tuviese dependencias externas reales (i.e. el dispositivo real de la barrera)
+    (1) Piensa en esta clase como si tuviese dependencias externas reales (i.e. el dispositivo real de la barrera)
 
-    ■ y (2) si usas esta clase en los tests, ¿cómo pruebas que se está llamando al método open?
+    (2) si usas esta clase en los tests, ¿cómo pruebas que se está llamando al método open?
 
 ● No hace falta que implementes la parte del main y ConsoleUI, lo importante del ejercicio son los tests.
